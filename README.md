@@ -3,7 +3,12 @@
 <h2>I am a front-end developer</h2>
 
 <h2>Skills</h2>
-<img src='./js.svg' /><img src='./react.svg' />
+<img src='./js.svg' style='display: inline'/><img src='./react.svg' style='display: inline'/>
+
+<h3>⚡ Statistics</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniiLapotko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiLapotko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **EvgeniiLapotko/EvgeniiLapotko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
