@@ -6,6 +6,9 @@
 
 ![alt-текст](./js.svg )
 ![alt-текст](./react.svg )
+![alt-текст](./rrouter.svg )
+![alt-текст](./redux.svg )
+![alt-текст](./ts.svg )
 
 
 <h3>⚡ Statistics</h3>
