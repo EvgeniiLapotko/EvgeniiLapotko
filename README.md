@@ -1,6 +1,4 @@
-<img src='https://www.codewars.com/users/EvgeniiLapotko/badges/micro' />
-
-[![Visits Badge](https://badges.pufler.dev/visits/EvgeniiLapotko/EvgeniiLapotko)](https://github.com/EvgeniiLapotko)
+<img src='https://www.codewars.com/users/EvgeniiLapotko/badges/micro' />         [![Visits Badge](https://badges.pufler.dev/visits/EvgeniiLapotko/EvgeniiLapotko)](https://github.com/EvgeniiLapotko)
 
 <h1 align='center'> Hi there 👋 My name is Evgenii </h1>
 <h2 align='center'>I am a front-end developer</h2>
