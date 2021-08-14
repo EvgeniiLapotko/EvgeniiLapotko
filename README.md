@@ -4,6 +4,10 @@
 
 <h2>Skills</h2>
 
+![alt-текст](./html.svg )
+![alt-текст](./css.svg )
+![alt-текст](./figma.svg )
+![alt-текст](./scss.svg )
 ![alt-текст](./js.svg )
 ![alt-текст](./react.svg )
 ![alt-текст](./rrouter.svg )
