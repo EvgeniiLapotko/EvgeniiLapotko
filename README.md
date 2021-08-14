@@ -1,8 +1,11 @@
 <img src='https://www.codewars.com/users/EvgeniiLapotko/badges/micro' />
-<h1> Hi there 👋 My name is Evgenii </h1>
-<h2>I am a front-end developer</h2>
 
-<h2>Skills</h2>
+[![Visits Badge](https://badges.pufler.dev/visits/EvgeniiLapotko/EvgeniiLapotko)](https://github.com/EvgeniiLapotko)
+
+<h1 align='center'> Hi there 👋 My name is Evgenii </h1>
+<h2 align='center'>I am a front-end developer</h2>
+
+<h2 align='center'>Skills</h2>
 
 ![alt-текст](./html.svg )
 ![alt-текст](./css.svg )
@@ -16,9 +19,9 @@
 ![alt-текст](./git.svg )
 
 
-<h3>⚡ Statistics</h3>
+<h3 align='center'>⚡ Statistics</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EvgeniiLapotko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=EvgeniiLapotko)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiLapotko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
