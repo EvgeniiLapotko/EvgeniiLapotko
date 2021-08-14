@@ -1,4 +1,4 @@
-https://www.codewars.com/users/EvgeniiLapotko/badges/large
+<img src='https://www.codewars.com/users/EvgeniiLapotko/badges/large' />
 ### Hi there 👋
 
 <!--
