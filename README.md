@@ -18,7 +18,7 @@
 
 
 
-<h2 align='center'>Skills</h2>
+<h2>Skills</h2>
 
 ![alt-текст](./html.svg )
 ![alt-текст](./css.svg )
