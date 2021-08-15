@@ -14,7 +14,7 @@
 
 В скором времени Вы сможете увидеть deploy моих проектов, сейчас работаю над этим.
 <br />
-Пока вы можете ознакомиться с моими работами в моих <a href='https://github.com/EvgeniiLapotko?tab=repositories'>репозиториях</a>
+Пока вы можете ознакомиться с моими работами в <a href='https://github.com/EvgeniiLapotko?tab=repositories'>репозиториях</a>
 
 
 
@@ -40,7 +40,10 @@
 
 
 
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=EvgeniiLapotko&show_icons=true&line_height=27&css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34' />  <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiLapotko&layout=compact&css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34'/>
+<img align="center" src='https://github-readme-stats.vercel.app/api?username=EvgeniiLapotko&show_icons=true&line_height=27&css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_radius=20&hide=issues' />
+
+<img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiLapotko&layout=compact&css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_radius=20&card_width=450'/>
+
 
 
 <!--
