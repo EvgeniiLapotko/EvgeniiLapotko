@@ -1,7 +1,22 @@
+<img src='./githeader.jpg' />
+
+
+<h1 > Hi 👋 I`M is EVGENII </h1>
+
 <img src='https://www.codewars.com/users/EvgeniiLapotko/badges/micro' />         [![Visits Badge](https://badges.pufler.dev/visits/EvgeniiLapotko/EvgeniiLapotko)](https://github.com/EvgeniiLapotko)
 
-<h1 align='center'> Hi there 👋 My name is Evgenii </h1>
-<h2 align='center'>I am a front-end developer</h2>
+Всем привет. Я junior front-end разработчик. 
+Стремлюсь стать профессианальным разработчиком интерфейсов.
+Изучаю React-Redux-TypeScript. На данном стеке не ограничиваюсь каждый день совершенствую знания по верстке и vanila JS.
+В учебных проектах использовал Material UI, ANT-DESIGN.
+
+<h3> My projects </h3>
+
+В скором времени Вы сможете увидеть deploy моих проектов, сейчас работаю над этим.
+<br />
+Пока вы можете ознакомиться с моими работами в моих <a href='https://github.com/EvgeniiLapotko/'>репозиториях</a>
+
+
 
 <h2 align='center'>Skills</h2>
 
@@ -19,9 +34,9 @@
 
 <h3 align='center'>⚡ Statistics</h3>
 
-[![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=EvgeniiLapotko)](https://github.com/anuraghazra/github-readme-stats)
+<img src='https://github-readme-stats.vercel.app/api?username=EvgeniiLapotko&show_icons=true&line_height=27&css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34' />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiLapotko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiLapotko&layout=compact&css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34'/>
 
 
 <!--
