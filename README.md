@@ -11,18 +11,87 @@
 В учебных проектах использовал Material UI, ANT-DESIGN.
 
 <h3> My projects </h3>
-Проекты буду добавлять от новых к стврым.
-В скором времени Вы сможете увидеть deploy моих проектов, сейчас работаю над этим.
+Проекты буду добавлять от новых к давним.
 <br />
-Пока вы можете ознакомиться с моими работами в <a href='https://github.com/EvgeniiLapotko?tab=repositories'>репозиториях</a>
+В скором времени, Вы сможете увидеть deploy моих новых проектов, сейчас работаю над этим.
+<br />
+Пока вы можете ознакомиться с моими работами в <a href='https://github.com/EvgeniiLapotko?tab=repositories'>репозиториях</a> <br />
+или с примерами работ из списка ниже 👇
+<br />
+
 
 <details>
-<summary><h4>Верстка </h4></summary>
+<summary>React</summary>
+  
+  * App для поска книг с GoogleBookApi <a href='https://evgeniilapotko.github.io/googleBooks/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/googleBooks'>код</a>
+</details>
 
+
+<details>
+ 
+  <summary> JS </summary>
+  
+  * <details>
+    <summary>16 заданий JS <a href='https://github.com/EvgeniiLapotko/40Project-Js'>код</a></summary>
+          
+    * random background <a href='https://evgeniilapotko.github.io/40Project-Js/task1-bgrandom/index.html'>демо</a>
+    * counter <a href='https://evgeniilapotko.github.io/40Project-Js/task2-counter/index.html'>демо</a>
+    * userCart <a href='https://evgeniilapotko.github.io/40Project-Js/task3-userCart/index.html'>демо</a>
+    * tabs questions <a href='https://evgeniilapotko.github.io/40Project-Js/task6-question/index.html'>демо</a>
+    * tabs filterMenu <a href='https://evgeniilapotko.github.io/40Project-Js/task7-filterMenu/index.html'>демо</a>
+    * video background  <a href='https://evgeniilapotko.github.io/40Project-Js/task8-videoBG/index.html'>демо</a>
+    * tabs <a href='https://evgeniilapotko.github.io/40Project-Js/task10-tabs/index.html'>демо</a>
+    * backTimer <a href='https://evgeniilapotko.github.io/40Project-Js/task11-backTimer/index.html'>демо</a>
+    * generateText <a href='https://evgeniilapotko.github.io/40Project-Js/task12-generateText/index.html'>демо</a>
+    * slider <a href='https://evgeniilapotko.github.io/40Project-Js/task14-slider/index.html'>демо</a>
+    * RockPaperScissors <a href='https://evgeniilapotko.github.io/40Project-Js/task15-RockPaperScissors/index.html'>демо</a>
+    * SimonGame <a href='https://evgeniilapotko.github.io/40Project-Js/task16-SimonGame/index.html'>демо</a>
+    * memoryGame <a href='https://evgeniilapotko.github.io/40Project-Js/task19-memoryGame/index.html'>демо</a>
+    * whackGame <a href='https://evgeniilapotko.github.io/40Project-Js/task20-whackGame/index.html'>демо</a>
+    * darkTheme <a href='https://evgeniilapotko.github.io/40Project-Js/task22-darkTheme/index.html'>демо</a>
+    * boxShadowGenerator <a href='https://evgeniilapotko.github.io/40Project-Js/task23-boxShadowGenerator/index.html'>демо</a>
+    
+    </details>
+   
+  
+    
+  
+  * Мини рисовалка <a href='https://evgeniilapotko.github.io/paint-js/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/paint-js'>код</a>
+  * Копия расширения momentum <a href='https://evgeniilapotko.github.io/momentum-todo-js/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/momentum-todo-js'>код</a>
+</details>
 
   
-  * Верстка лединга <a href='https://evgeniilapotko.github.io/BisLite-2-project/'>демо</a>
+<details>
+  
+<summary>Верстка </summary>
+  
+  * <details>
+    
+    <summary>Верстка интернет магазина <a href='https://github.com/EvgeniiLapotko/moderno'>код</a></summary>
+    
+    
+    
+    * <a href='https://evgeniilapotko.github.io/moderno//app/index.html'>Главная</a> 
+    * <a href='https://evgeniilapotko.github.io/moderno//app/about.html'>О нас</a> 
+    * <a href='https://evgeniilapotko.github.io/moderno//app/contact.html'>Контакты</a> 
+    * <a href='https://evgeniilapotko.github.io/moderno//app/page404.html'>404</a> 
+    * <a href='https://evgeniilapotko.github.io/moderno//app/profile.html'>Профиль</a> 
+    * <a href='https://evgeniilapotko.github.io/moderno//app/products-details.html'>Продукт</a> 
+    * <a href='https://evgeniilapotko.github.io/moderno//app/settings.html'>Настройка</a> 
+    * <a href='https://evgeniilapotko.github.io/moderno//app/upload.html'>Обновить тему</a> 
+    * <a href='https://evgeniilapotko.github.io/moderno//app/withdraw.html'>Инфо</a> 
+  
+    </details>
+  
+  * Верстка лединга home-stroy <a href='https://evgeniilapotko.github.io/home-stroy/dist/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/home-stroy'>код</a>
+  * Верстка лединга химчистка мебели <a href='https://evgeniilapotko.github.io/cleaning/dist/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/cleaning'>код</a>
+  * Верстка лединга строительной компании <a href='https://evgeniilapotko.github.io/blitz_Estate/dist/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/blitz_Estate'>код</a>
+  * Верстка лединга go-surf <a href='https://evgeniilapotko.github.io/surf/dist/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/surf'>код</a>
+  * Верстка лединга mavic <a href='https://evgeniilapotko.github.io/mavic/app/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/mavic'>код</a>
+  * Верстка лединга <a href='https://evgeniilapotko.github.io/BisLite-2-project/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/BisLite-2-project'>код</a>
 </details>
+
+
 
 
 <h2>💼 Skills</h2>
