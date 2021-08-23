@@ -18,13 +18,13 @@
 Пока вы можете ознакомиться с моими работами в <a href='https://github.com/EvgeniiLapotko?tab=repositories'>репозиториях</a> <br />
 или с примерами работ из списка ниже 👇
 <br />
-
+<h2></h2>
 
 <details>
 <summary>React</summary>
   
   * App для поска книг с GoogleBookApi <a href='https://evgeniilapotko.github.io/googleBooks/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/googleBooks'>код</a>
-  * App для заказа Пиццы (сортировка отключена для deploy переделал с json-server на mocka API)  <a href='https://evgeniilapotko.github.io/React-Pizzas/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/React-Pizzas'>код</a> 
+  * App для заказа Пиццы <a href='https://evgeniilapotko.github.io/React-Pizzas/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/React-Pizzas'>код</a> 
 </details>
 
 
