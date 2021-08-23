@@ -27,6 +27,7 @@
   * App для заказа Пиццы <a href='https://evgeniilapotko.github.io/React-Pizzas/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/React-Pizzas'>код</a> 
   * Учебный проект(без серверной части DB - mockApi) React-Chat <a href='https://evgeniilapotko.github.io/React-Chat/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/React-Chat'>код</a> 
   * App для поска коктелей с thecocktaildbAPI <a href='https://evgeniilapotko.github.io/CoctailsDB/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/CoctailsDB'>код</a>
+  * App генератор цвета <a href='https://evgeniilapotko.github.io/ColorGenerator/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/ColorGenerator'>код</a>
 </details>
 
 
