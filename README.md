@@ -1,7 +1,7 @@
 <img src='./githeader.jpg' />
 
 
-<h1 > Hi 👋 I`M is EVGENII </h1>
+<h1 > Hi 👋 I`M EVGENII </h1>
 
 <img src='https://www.codewars.com/users/EvgeniiLapotko/badges/micro' />         [![Visits Badge](https://badges.pufler.dev/visits/EvgeniiLapotko/EvgeniiLapotko)](https://github.com/EvgeniiLapotko)
 
