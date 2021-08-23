@@ -26,6 +26,7 @@
   * App для поска книг с GoogleBookApi <a href='https://evgeniilapotko.github.io/googleBooks/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/googleBooks'>код</a>
   * App для заказа Пиццы <a href='https://evgeniilapotko.github.io/React-Pizzas/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/React-Pizzas'>код</a> 
   * Учебный проект(без серверной части DB - mockApi) React-Chat <a href='https://evgeniilapotko.github.io/React-Chat/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/React-Chat'>код</a> 
+  * App для поска коктелей с thecocktaildbAPI <a href='https://evgeniilapotko.github.io/CoctailsDB/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/CoctailsDB'>код</a>
 </details>
 
 
