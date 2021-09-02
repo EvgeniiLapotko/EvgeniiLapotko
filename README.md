@@ -10,7 +10,7 @@
 
 Специализируюсь на React-Redux-TypeScript и их экосистеме
 
-В проектах использовал Material UI, ANT-DESIGNб Styled Components.
+В проектах использовал Material UI, ANT-DESIGN, Styled Components.
 
 <h3> My projects </h3>
 В скором времени, Вы сможете увидеть deploy моих новых проектов, сейчас работаю над этим.
