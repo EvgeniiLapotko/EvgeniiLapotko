@@ -5,10 +5,12 @@
 
 <img src='https://www.codewars.com/users/EvgeniiLapotko/badges/micro' />         [![Visits Badge](https://badges.pufler.dev/visits/EvgeniiLapotko/EvgeniiLapotko)](https://github.com/EvgeniiLapotko)
 
-Всем привет. Я junior front-end разработчик. 
-Стремлюсь стать профессианальным разработчиком интерфейсов.
-Изучаю React-Redux-TypeScript. На данном стеке не ограничиваюсь каждый день совершенствую знания, стараюсь разобраться в чем то новом.
-В учебных проектах использовал Material UI, ANT-DESIGN.
+
+Добрый день.
+
+Специализируюсь на React-Redux-TypeScript и их экосистеме
+
+В проектах использовал Material UI, ANT-DESIGNб Styled Components.
 
 <h3> My projects </h3>
 В скором времени, Вы сможете увидеть deploy моих новых проектов, сейчас работаю над этим.
@@ -112,8 +114,20 @@ C остальными работами можно ознакомиться в <
 ![alt-текст](./ts.svg )
 ![alt-текст](./git.svg )
 
+• JavaScript(ES6+)/TypeScript <br/>
+• React, React-Router-Dom, React-redux <br/>
+• Redux, Redux-Saga, Redux-Thunk, Immer <br/>
+• Rest API, axios <br/>
+• Styled-components /Material UI (css in js)/ Ant Design <br/>
+
 <details>
 <summary>More Skills</summary>
+  
+  * Git/Github
+  * БЭМ(css)
+  * Figma, Photoshop
+  * Gulp/Webpack
+  * API
   
  </details>
 
