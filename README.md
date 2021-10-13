@@ -24,6 +24,8 @@
 <summary>React</summary>
   
   
+  
+  * Airbnb проект для ознакомления с  Next/React/Tailwind CSS/React-date-range/ReactMapGL. <a href='https://react-airbnb-one.vercel.app/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/react-airbnb'>код</a>
   * Chat проект для ознакомления с  Next/React/StyledComponent-MaterialUi/TS/FirebaseAuth/Firestore. .<a href='https://whatsapp-chat-henna.vercel.app/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/watsapp-chat'>код</a>
   * Slack chat использовал React/Redux-Toolkit/StyledComponent-MaterialUi/TS/Firebase. .<a href='https://slack-clone-aa760.web.app/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/slack-clone'>код</a>
   * React Twitter использовал React-Redux-Saga-Immer-TypeScript не полноценная копия твитера. некоторые основные страницы в целях закрепления знаний TS и Saga. Данные запрашиваются с json-placeholder <a href='https://evgeniilapotko.github.io/react-twitter/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/react-twitter'>код</a>
