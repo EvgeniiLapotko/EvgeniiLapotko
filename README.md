@@ -99,6 +99,7 @@ WebStorm</br>
   
     </details>
   
+  * t-shirt <a href='https://evgeniilapotko.github.io/T-shirt-1project/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/T-shirt-1project'>код</a>
   * home-stroy <a href='https://evgeniilapotko.github.io/home-stroy/dist/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/home-stroy'>код</a>
   * Landing cleaning <a href='https://evgeniilapotko.github.io/cleaning/dist/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/cleaning'>код</a>
   * Landing Build company <a href='https://evgeniilapotko.github.io/blitz_Estate/dist/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/blitz_Estate'>код</a>
