@@ -3,7 +3,7 @@
 
 <h1 > Hi 👋 I`M EVGENII </h1>
 
-<img src='https://www.codewars.com/users/EvgeniiLapotko/badges/micro' />         [![Visits Badge](https://badges.pufler.dev/visits/EvgeniiLapotko/EvgeniiLapotko)](https://github.com/EvgeniiLapotko)
+<img src='https://www.codewars.com/users/EvgeniiLapotko/badges/micro' />        
 
 Frontend developer </br>
 React-Redux(MobX)-TypeScript </br>
