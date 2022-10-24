@@ -154,9 +154,10 @@ Other works in the <a href='https://github.com/EvgeniiLapotko?tab=repositories'>
 <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiLapotko&layout=compact&css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&border_radius=20&card_width=450'/>
 
 
-
 <!--
 **EvgeniiLapotko/EvgeniiLapotko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiLapotko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
