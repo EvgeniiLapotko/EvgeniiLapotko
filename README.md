@@ -105,7 +105,6 @@ WebStorm</br>
   * Landing Build company <a href='https://evgeniilapotko.github.io/blitz_Estate/dist/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/blitz_Estate'>код</a>
   * Landing go-surf <a href='https://evgeniilapotko.github.io/surf/dist/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/surf'>код</a>
   * Landing mavic <a href='https://evgeniilapotko.github.io/mavic/app/index.html'>демо</a> | <a href='https://github.com/EvgeniiLapotko/mavic'>код</a>
-  * Landing page <a href='https://evgeniilapotko.github.io/BisLite-2-project/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/BisLite-2-project'>код</a>
 </details>
 
 <h2></h2>
