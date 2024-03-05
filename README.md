@@ -1,9 +1,7 @@
 <img src='./githeader.jpg' />
 
 
-<h1 > Hi 👋 I`M EVGENII </h1>
-
-<img src='https://www.codewars.com/users/EvgeniiLapotko/badges/micro' />        
+<h1 > Hi 👋 I`M EVGENII </h1>      
 
 Frontend developer </br>
 React-Redux(MobX)-TypeScript </br>
