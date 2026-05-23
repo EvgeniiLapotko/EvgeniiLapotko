@@ -1,96 +1,107 @@
 <img src='./githeader.jpg' />
 
+# Hi 👋
 
-<h1 > Hi 👋 I`M EVGENII </h1>      
+## Fullstack Engineer
+**React / TypeScript • Frontend-heavy • Product development • AI workflows**
 
-Frontend developer </br>
-React-Redux(MobX)-TypeScript </br>
-NodeJS/ExpresJS </br>
-MongoDB </br>
-TypeORM </br>
-GraphQL </br>
-Git </br>
-ClickApp</br>
-WebStorm</br>
+I build web products end-to-end: from polished user interfaces and product logic to backend services, APIs, integrations, and data workflows.
 
-<h3> My projects </h3>
+My strongest background is in frontend development, but I work comfortably across the full stack and enjoy taking features from idea to production.
 
-<h2></h2>
+I feel most at home in complex product environments with multiple services, shared code, evolving business rules, and data-heavy interfaces.
 
-<details>
-  <summary>NodeJS</summary>
-  
-  * NodeJS/Express Api <a href='https://github.com/EvgeniiLapotko/node-express'>код</a>
-</details>
+---
 
-<details>
-<summary>React</summary>
-  
-  
-  
-  * Airbnb - Next/React/Tailwind CSS/React-date-range/ReactMapGL. <a href='https://react-airbnb-one.vercel.app/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/react-airbnb'>код</a>
-  * Chat -  Next/React/StyledComponent-MaterialUi/TS/FirebaseAuth/Firestore. .<a href='https://whatsapp-chat-henna.vercel.app/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/watsapp-chat'>код</a>
-  * Slack chat - React/Redux-Toolkit/StyledComponent-MaterialUi/TS/Firebase. .<a href='https://slack-clone-aa760.web.app/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/slack-clone'>код</a>
-  * React Twitter - React-Redux-Saga-Immer-TypeScript <a href='https://evgeniilapotko.github.io/react-twitter/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/react-twitter'>код</a>
-  * App  GoogleBookApi <a href='https://evgeniilapotko.github.io/googleBooks/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/googleBooks'>код</a>
-  * AppPizzaShop <a href='https://evgeniilapotko.github.io/React-Pizzas/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/React-Pizzas'>код</a> 
-  * React-Chat <a href='https://evgeniilapotko.github.io/React-Chat/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/React-Chat'>код</a> 
-  * App thecocktaildbAPI <a href='https://evgeniilapotko.github.io/CoctailsDB/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/CoctailsDB'>код</a>
-  * App contacts book <a href='https://evgeniilapotko.github.io/contactBook/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/contactBook'>код</a>
-  * App generateColor <a href='https://evgeniilapotko.github.io/ColorGenerator/'>демо</a> | <a href='https://github.com/EvgeniiLapotko/ColorGenerator'>код</a>
-</details>
+## 🚀 What I Do
 
-<h2></h2>
-Other works in the <a href='https://github.com/EvgeniiLapotko?tab=repositories'>repositories</a> <br />
+- Build complete product features across frontend and backend
+- Create internal tools, admin panels, and operational interfaces
+- Work with complex business logic, APIs, permissions, and integrations
+- Turn complicated requirements into clear and reliable solutions
+- Focus on maintainability, usability, and production quality
 
+---
 
-<h2>💼 Skills</h2>
+## 🛠 Tech Stack
 
-![alt-текст](./html.svg )
-![alt-текст](./css.svg )
-![alt-текст](./figma.svg )
-![alt-текст](./scss.svg )
-![alt-текст](./js.svg )
-![alt-текст](./react.svg )
-![alt-текст](./rrouter.svg )
-![alt-текст](./redux.svg )
-![alt-текст](./ts.svg )
-![alt-текст](./git.svg )
+### Frontend
+- React, Preact, TypeScript, JavaScript, Vite
+- TanStack Router, TanStack Query, TanStack Form, TanStack Table
+- Zustand, React Context, React Hook Form
+- GraphQL clients and type-safe API integration
+- Tailwind CSS, Radix UI, React Aria
+- Dashboards, forms, editable tables, filters, reporting flows, import/export, map-based interfaces
 
-• JavaScript(ES6+)/TypeScript <br/>
-• React, React-Router-Dom, React-redux <br/>
-• Redux, Redux-Saga, Redux-Thunk, Immer <br/>
-• MobX, MobX-react <br/>
-• Rest API, axios <br/>
-• NodeJS, expressJs <br/>
-• MongoDB <br/>
-• Styled-components /Material UI (css in js)/ Ant Design <br/>
+### Backend
+- Bun, Node.js, Hono, Express, Fastify, Elysia
+- GraphQL, Apollo Server, GraphQL Yoga, Federation, REST APIs
+- PostgreSQL, TypeORM, Drizzle ORM, Redis, ClickHouse
+- Kafka and event-driven data processing
+- Authentication, background jobs, migrations, audit logging, service integrations
 
-<details>
-<summary>More Skills</summary>
-  
-  * Git/Github
-  * Figma
-  * Gulp/Webpack
-  * API
-  
- </details>
+### Platform & Infrastructure
+- pnpm workspaces, Turbo monorepos
+- Docker, GitLab CI/CD
+- AWS S3, AWS Secrets Manager
+- Sentry, Prometheus, structured logging
+- Offline-first and restricted-network deployment scenarios
 
+---
 
+## 💼 What I Work With
 
-<!--
-**EvgeniiLapotko/EvgeniiLapotko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product & Interface Development
+- Full product features from backend logic to production UI
+- Internal systems, operational tools, and admin panels
+- Data-heavy interfaces and validation-heavy forms
+- User flows built around real business processes
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgeniiLapotko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Backend & Integrations
+- API design and service-to-service communication
+- Data modeling and structured workflows
+- Asynchronous and event-driven pipelines
+- File handling, media workflows, and external integrations
+- Systems where traceability and reliability matter
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 AI & Automation
+
+- Practical experience with AI-powered workflows and automation
+- Built and configured Telegram bots integrated with AI
+- Worked with OpenClaw and adapted it for real automation tasks
+- Use AI tools in engineering, workflow automation, and product experimentation
+
+---
+
+## 🎨 Generative Content Workflows
+
+I have hands-on experience setting up complete **ComfyUI** workflows for:
+
+- Image generation
+- Video generation
+- Music generation
+
+I focus on building repeatable pipelines that are useful in real content workflows, not only experimentation.
+
+---
+
+## 🔐 Cryptography & Electronic Document Management
+
+I also have around one year of experience in cryptography-related work and electronic document management, including:
+
+- Digital document signing with electronic signatures
+- CryptoPro setup and integration
+- Certificate-chain configuration and validation
+- Signing and verification flows embedded into business systems
+
+---
+
+## ✨ How I Work
+
+- I take ownership of complete tasks and follow them through to production
+- I prefer clear, practical solutions over unnecessary complexity
+- I care about maintainability, supportability, and clean implementation
+- I communicate clearly and work well in collaborative product teams
+
